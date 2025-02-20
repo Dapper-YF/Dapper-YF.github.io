@@ -19,7 +19,7 @@
     <main>
         <section id="section1">
             <h2>部分1</h2>
-            <p>这是部分1的内容。</p>
+            <p>At the first</p>
         </section>
         <section id="section2">
             <h2>部分2</h2>
@@ -27,7 +27,7 @@
         </section>
         <section id="section3">
             <h2>部分3</h2>
-            <p>这是部分3的内容。</p>
+            <p>In the end</p>
         </section>
     </main>
     <footer>
